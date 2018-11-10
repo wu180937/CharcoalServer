@@ -1,0 +1,28 @@
+{
+  "groups": [
+    {
+      "name": "gameServer",
+      "type": "com.charcoal.gameserver.spring.boot.autoconfigure.GameServerProperties",
+      "sourceType": "com.charcoal.gameserver.spring.boot.autoconfigure.GameServerProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "gameServer.ip",
+      "type": "java.lang.String",
+      "sourceType": "com.charcoal.gameserver.spring.boot.autoconfigure.GameServerProperties"
+    },
+    {
+      "name": "gameServer.port",
+      "type": "java.lang.String",
+      "sourceType": "com.charcoal.gameserver.spring.boot.autoconfigure.GameServerProperties"
+    },
+    {
+      "name": "gameServer.work-pool-size",
+      "type": "java.lang.Integer",
+      "sourceType": "com.charcoal.gameserver.spring.boot.autoconfigure.GameServerProperties",
+      "defaultValue": 0
+    }
+  ],
+  "hints": []
+}
