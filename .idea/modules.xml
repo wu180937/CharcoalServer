@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CharcoalServer.iml" filepath="$PROJECT_DIR$/.idea/CharcoalServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/logic/GameServer/GameServer.iml" filepath="$PROJECT_DIR$/code/logic/GameServer/GameServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/logic/GameServerSpringBootAutoconfigure/GameServer-SpringBoot-Autoconfigure.iml" filepath="$PROJECT_DIR$/code/logic/GameServerSpringBootAutoconfigure/GameServer-SpringBoot-Autoconfigure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/logic/GameServerSpringBootStarter/GameServerSpringBootStarter.iml" filepath="$PROJECT_DIR$/code/logic/GameServerSpringBootStarter/GameServerSpringBootStarter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/logic/TestGameServer/TestGameServer.iml" filepath="$PROJECT_DIR$/code/logic/TestGameServer/TestGameServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/logic/commom.iml" filepath="$PROJECT_DIR$/code/logic/commom.iml" />
+    </modules>
+  </component>
+</project>
